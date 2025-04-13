@@ -1,36 +1,18 @@
-> _Fork_ deze leertaak en ga aan de slag.
-> De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/url-naar-online-instructions)
+# Performance Audit 
 
+Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
+ 
 
-## Inhoudsopgave
+## Titel Website
 
-  * [Beschrijving](#beschrijving)
-  * [Gebruik](#gebruik)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
 
-## Beschrijving
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, en de Core Web Vitals Assessment van https://pagespeed.web.dev/ (als die beschikbaar is).
 
-## Gebruik
-<!- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
-
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
-
-## Installatie
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
-
-## Bronnen
+Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
 
 ## Licentie
 
-This project is licensed under the terms of the [MIT license](./LICENCE).
-
+This project is licensed under the terms of the [MIT license](./LICENSE).
