@@ -9,7 +9,7 @@ De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd
 
 Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
 
-Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, en de Core Web Vitals Assessment van https://pagespeed.web.dev/ (als die beschikbaar is).
+Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, de Core Web Vitals Assessment van PageSpeed Insights (als die beschikbaar is) en de waterfall chart van WebPageTest.
 
 Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
 
