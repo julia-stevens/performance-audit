@@ -78,6 +78,8 @@ Via onder andere PageSpeed Insights kun je een kijkje in die data nemen. Dus lat
 
 Lighthouse is top, maar het kan niet alles. Helaas. Om echt goed inzicht te krijgen in de oorzaken van performance problemen, kunnen we WebPageTest gebruiken. Hiermee krijg je echt een deep-dive in alles wat er gebeurt in de browser. Je kunt zelf selecteren op welke browser deze test uitgevoerd moet worden, met welke connectie, vanaf welk continent, en nog veel meer.
 
+<img width="500" alt="De WebPageTest waterfall chart van fdnd.nl" src="waterfall.png">
+
 Met name de _Waterfall_ charts zijn voor frontenders interessant, want deze worden voor een groot deel beïnvloed door de HTML, CSS en client-side JavaScript die we naar de browser sturen.
 
 #### Aanpak
@@ -91,7 +93,7 @@ Met name de _Waterfall_ charts zijn voor frontenders interessant, want deze word
 #### Bronnen WebPageTest
 
 - [WebPageTest](https://www.webpagetest.org/)
-- [Smashing Magazine Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+- [How to read a WebPageTest Waterfall View chart](https://nooshu.com/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/)
 
 
 ## Definition of done
