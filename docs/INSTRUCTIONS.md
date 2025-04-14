@@ -133,5 +133,5 @@ Deze opdracht is done als:
 
 - [ ] Je hebt voor Mobile een Lighthouse Performance test gedaan op een bestaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
 - [ ] Je hebt voor Desktop een Lighthouse Performance test gedaan op een bestaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
-- [ ] Je hebt een PageSpeed Insights test gedaan op een bestaande website en de verschillen en Chrome User Experience Report data zijn gedocumenteerd in de Wiki van deze deeltaak
+- [ ] Je hebt een PageSpeed Insights test gedaan op een bestaande website en de verschillen en Real User Metrics van de Chrome User Experience Report data zijn gedocumenteerd in de Wiki van deze deeltaak
 - [ ] Je hebt een WebPageTest Site Performance test gedaan op een bestaande website en de waterfall chart is gedocumenteerd in de Wiki van deze deeltaak
