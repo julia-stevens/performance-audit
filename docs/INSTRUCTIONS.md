@@ -16,9 +16,13 @@ Fork deze deeltaak, zet je Wiki aan bij Repository Settings en documenteer je te
 
 Het is de verantwoordelijkheid van een frontender dat een website voor verschillende mensen, met verschillende apparaten, in verschillende situaties, _Snel_ is. Met goede code kun je ervoor zorgen dat mensen met een (tijdelijke) trage verbinding, een trager apparaat, of een oudere browser een website ook op een prettige manier kunnen gebruiken.
 
-Stel je voor dat de bundel van de gebruiker van jouw website net leeg is, of die gebruiker een oude versie van Firefox gebruikt, of een iPhone van 5 jaar oud, of op een tweedehands laptop met oude Intel process surft. Of ...
+Stel je voor dat de bundel van de gebruiker van jouw website net leeg is, of die gebruiker een oude versie van Firefox gebruikt, of een iPhone van 5 jaar oud, of op een tweedehands laptop met oude Intel process surft. Of überhaupt geen toegang heeft tot 5G. Of tot 4G. Of ...
 
-Een goede snelle website voldoet onder andere aan de _[Web Vitals metrics](https://web.dev/articles/vitals)_.
+De meeste mensen werken _niet_ op net zo'n snel apparaat als jij. Je hebt hier in Sprint 9 al wat van meegekregen. We zullen dus moeten leren hoe we kunnen meten of onze website snel genoeg is voor de meeste mensen. Dit doen we met een _Performance Audit_.
+
+Een goede snelle website voldoet onder andere aan de _Web Vitals metrics_. Google heeft deze een paar jaar geleden in het leven geroepen om de snelheid van websites te meten en inzichtelijk te maken (en om sites te kunnen ranken hiermee). De _Core Web Vitals_ zijn de drie belangrijkste statistieken hiervoor. Deze hebben betrekking op het _loading performance_, de _interactivity_ en de _visual stability_ van een pagina. Deze Core Web Vitals zijn dus goed voor de _User Experience_, en dus voor de eindgebruikers.
+
+<img width="800" alt="De Core Web Vitals" src="cwv.png">
 
 Voor het testen van _Performance_ kun je een website automatisch testen in de browser met bijvoorbeeld de tool _Lighthouse_ van Google (die we ook al gebruikten voor de WCAG Audit uit Sprint 3). Voor deze opdracht ga je zo'n test uitvoeren en documenteer je wat je hebt getest in de Wiki van deze deeltaak.
 
@@ -26,7 +30,7 @@ Voor het testen van _Performance_ kun je een website automatisch testen in de br
 2. Daarna gebruik je [PageSpeed Insights](#2-pagespeed-insights) om een inzicht te krijgen in de _Real User Metrics_ van die website, die je ook documenteert in je Wiki
 3. Vervolgens onderzoek je met [WebPageTest](#3-webpagetest) de mogelijke oorzaken en oplossingen van problemen, die je ook documenteert in je Wiki
 
-### Bronnen documenteren
+### Bronnen voor documenteren
 
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
