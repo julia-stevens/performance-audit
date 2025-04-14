@@ -62,6 +62,14 @@ Google verzamelt al een tijdje performance statistieken van alle Chrome gebruike
 
 Via onder andere PageSpeed Insights kun je een kijkje in die data nemen. Dus laten we dat eens gaan doen.
 
+<img width="800" alt="" src="crux-data.png">
+
+_De Chrome User Experience Report gegevens van hva.nl_
+
+<img width="800" alt="" src="crux-data-none.png">
+
+_Van fdnd.nl zijn er nog geen CrUX gegevens_
+
 #### Aanpak
 
 - Ga naar https://pagespeed.web.dev/ en analyseer de site die je net ook getest hebt. Als het goed is, komen de Performance issues op Mobile en Desktop grofweg overeen met die van Lighthouse in je browser. PageSpeed Insights gebruikt namelijk ook Lighthouse voor deze tests.
@@ -78,7 +86,9 @@ Via onder andere PageSpeed Insights kun je een kijkje in die data nemen. Dus lat
 
 Lighthouse is top, maar het kan niet alles. Helaas. Om echt goed inzicht te krijgen in de oorzaken van performance problemen, kunnen we WebPageTest gebruiken. Hiermee krijg je echt een deep-dive in alles wat er gebeurt in de browser. Je kunt zelf selecteren op welke browser deze test uitgevoerd moet worden, met welke connectie, vanaf welk continent, en nog veel meer.
 
-<img width="500" alt="De WebPageTest waterfall chart van fdnd.nl" src="waterfall.png">
+<img width="800" alt="" src="waterfall.png">
+
+_De WebPageTest waterfall chart van fdnd.nl_
 
 Met name de _Waterfall_ charts zijn voor frontenders interessant, want deze worden voor een groot deel beïnvloed door de HTML, CSS en client-side JavaScript die we naar de browser sturen.
 
