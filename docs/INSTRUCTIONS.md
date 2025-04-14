@@ -73,12 +73,13 @@ En zo kun je de verschillende Diagnostics bekijken:
 
  - [Lighthouse performance scoring](https://developer.chrome.com/docs/lighthouse/performance/)
  - [Web Vitals](https://web.dev/articles/vitals)
+ - [My Challenge to the Web Performance Community — Philip Walton van Google](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
  
 ### 2. PageSpeed Insights
 
 Lighthouse is een geautomatiserde test, die lokaal op jouw machine draait. Net als bij Toegankelijkheid heb je inmiddels door dat de realiteit net iets complexer is dan wat het lijkt. Jouw machine en browser zijn waarschijnlijk snel. Lighthouse doet een soort simulatie van een trager apparaat (door de _Throttling_ setting), maar in het echt spelen veel meer factoren mee.
 
-Google verzamelt al een tijdje performance statistieken van alle Chrome gebruikers wereldwijd. Van échte gebruikers dus. Deze statistieken zijn verzameld in het _Chrome User Experience Report_ (CrUX), die volledig openbaar zijn. Deze gegevens worden ook door Google gebruikt voor het ranken van websites. Performance vormt namelijk een groot onderdeel van de _User Experience_, en Google stuurt bezoekers graag door naar Goede Websites.
+Google verzamelt al een tijdje performance statistieken van alle Chrome gebruikers wereldwijd. Van échte gebruikers dus. Deze _Real User Metrics_ (RUM) zijn verzameld in het _Chrome User Experience Report_ (CrUX), die volledig openbaar zijn. Deze gegevens worden ook door Google gebruikt voor het ranken van websites. Performance vormt namelijk een groot onderdeel van de _User Experience_, en Google stuurt bezoekers graag door naar Goede Websites.
 
 Via onder andere PageSpeed Insights kun je een kijkje in die data nemen. Dus laten we dat eens gaan doen.
 
