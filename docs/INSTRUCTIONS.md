@@ -2,7 +2,7 @@
 
 Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
-In de workshop S10W1-02-Core-Web-Vitals wordt behandeld hoe je een Performance audit kan uitvoeren.
+In de workshop S10W1-02-Performance wordt behandeld hoe je een Performance audit kan uitvoeren.
 
 
 ## Doel van deze opdracht
