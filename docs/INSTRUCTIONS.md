@@ -2,7 +2,7 @@
 
 Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
 
-In de workshop S10W1-02-Core-Web-Vitals wordt behandeld hoe je een Performance audit kan uitvoeren.
+In de workshop S10W1-02-Performance wordt behandeld hoe je een Performance audit kan uitvoeren.
 
 
 ## Doel van deze opdracht
@@ -56,7 +56,7 @@ En voor Desktop zo:
 
 En zo kun je de verschillende Diagnostics bekijken:
 
-<video width="800" src="lighthouse-results.mp4"></video>
+<video width="800" src="https://github.com/user-attachments/assets/e5110e46-e17b-4603-a9fb-2fa86e328462" muted loop autoplay playsinline></video>
 
 #### Aanpak
 
