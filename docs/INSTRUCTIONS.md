@@ -52,7 +52,7 @@ En voor Desktop zo:
 
 En zo kun je de verschillende Diagnostics bekijken:
 
-<video width="800" src="lighthouse-results.mp4"></video>
+<video width="800" src="https://github.com/user-attachments/assets/e5110e46-e17b-4603-a9fb-2fa86e328462" muted loop autoplay playsinline></video>
 
 #### Aanpak
 
