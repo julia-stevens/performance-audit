@@ -38,6 +38,22 @@ Lighthouse is een geautomatiseerde test die je in een Chrome (of op Chromium geb
 
 Naast een snelle test op _Toegankelijkheid_, kan Lighthouse ook een _Performance_ test doen. Je begint de Performance audit dus met een Lighthouse test.
 
+Zo start je een Lighthouse Performance test:
+
+<img width="800" alt="De Lighthouse tab in je devtools" src="lighthouse.png">
+
+Voor Mobile kunnen de resultaten er bijvoorbeeld zo uit zien:
+
+<img width="800" alt="Lighthouse Performance resultaten voor fdnd.nl op Mobile–83" src="lighthouse-result.png">
+
+En voor Desktop zo:
+
+<img width="800" alt="Lighthouse Performance resultaten voor fdnd.nl op Desktop—98" src="lighthouse-result-desktop.png">
+
+En zo kun je de verschillende Diagnostics bekijken:
+
+<video muted autoplay loop playsinline src="lighthouse-results.mp4"></video>
+
 #### Aanpak
 
 - Ga naar een website uit je eigen omgeving, bijvoorbeeld die van je eigen voetbalvereniging, yogaclub, muziekschool, bijbaantje, fitnessschool of het werk van je ouders. Leuk om hier niet dezelfde site als in Sprint 3 te gebruiken, maar weer even verder te kijken.
@@ -62,13 +78,13 @@ Google verzamelt al een tijdje performance statistieken van alle Chrome gebruike
 
 Via onder andere PageSpeed Insights kun je een kijkje in die data nemen. Dus laten we dat eens gaan doen.
 
-<img width="800" alt="" src="crux-data.png">
+Als er gegevens beschikbaar zijn voor een domein of pagina, ziet dat er zo uit:
 
-_De Chrome User Experience Report gegevens van hva.nl_
+<img width="800" alt="De Chrome User Experience Report gegevens van hva.nl" src="crux-data.png">
 
-<img width="800" alt="" src="crux-data-none.png">
+Als er geen gegevens beschikbaar zijn, ziet dat er zo uit:
 
-_Van fdnd.nl zijn er nog geen CrUX gegevens_
+<img width="800" alt="Van fdnd.nl zijn er nog geen CrUX gegevens" src="crux-data-none.png">
 
 #### Aanpak
 
@@ -86,11 +102,11 @@ _Van fdnd.nl zijn er nog geen CrUX gegevens_
 
 Lighthouse is top, maar het kan niet alles. Helaas. Om echt goed inzicht te krijgen in de oorzaken van performance problemen, kunnen we WebPageTest gebruiken. Hiermee krijg je echt een deep-dive in alles wat er gebeurt in de browser. Je kunt zelf selecteren op welke browser deze test uitgevoerd moet worden, met welke connectie, vanaf welk continent, en nog veel meer.
 
-<img width="800" alt="" src="waterfall.png">
-
-_De WebPageTest waterfall chart van fdnd.nl_
-
 Met name de _Waterfall_ charts zijn voor frontenders interessant, want deze worden voor een groot deel beïnvloed door de HTML, CSS en client-side JavaScript die we naar de browser sturen.
+
+Zo ziet een Waterfall chart van WebPagetest er uit:
+
+<img width="800" alt="De WebPageTest waterfall chart van fdnd.nl" src="waterfall.png">
 
 #### Aanpak
 
